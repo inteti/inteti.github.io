@@ -6,7 +6,24 @@
 &lt;h3 id="thử-nghiệm-2">Thử nghiệm 2&lt;/h3>
 &lt;h2 id="kết-thúc">Kết thúc&lt;/h2>
 &lt;p>Bài viết được viết bởi Ethan BUI.&lt;/p></description></item><item><title>New Post</title><link>https://inteti.github.io/posts/new-post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/new-post/</guid><description>&lt;h2 id="new-post">New post&lt;/h2>
-&lt;p>to test&lt;/p></description></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
+&lt;p>to test&lt;/p></description></item><item><title>new Post</title><link>https://inteti.github.io/posts/new-post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/new-post/</guid><description>&lt;h2 id="ethan-bui-post-from-other-account">Ethan BUI post from other account&lt;/h2>
+&lt;p>Testing for new post and upload new img.&lt;/p>
+&lt;p>&lt;figure
+class="gallery-image"
+style="
+flex-grow: 100;
+flex-basis: 240px"
+>
+&lt;a href="https://inteti.github.io/posts/new-post/d.jpg" data-size="500x500">
+&lt;img src="https://inteti.github.io/posts/new-post/d.jpg"
+width="500"
+height="500"
+srcset="https://inteti.github.io/posts/new-post/d_hu421b6ff806b665b1753b1b68dd1f982e_34193_480x0_resize_q75_box.jpg 480w, https://inteti.github.io/posts/new-post/d_hu421b6ff806b665b1753b1b68dd1f982e_34193_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="myImage">
+&lt;/a>
+&lt;figcaption>myImage&lt;/figcaption>
+&lt;/figure>&lt;/p></description></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
 &lt;p>The first, you must login to Github. It&amp;rsquo;s &lt;a class="link" href="https://github.com" target="_blank" rel="noopener"
 >https://github.com&lt;/a>&lt;/p>
 &lt;h2 id="select-the-repository">Select the repository&lt;/h2>
