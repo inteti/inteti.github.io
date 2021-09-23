@@ -1,7 +1,7 @@
 ---
 author: Ethan BUI
-title: Post
-description: Description
+title: All the links AIO
+description: Description of the links AIO
 date: 2021-09-23
 tags:
     - emoji
