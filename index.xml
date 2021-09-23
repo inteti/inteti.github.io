@@ -32,7 +32,44 @@ loading="lazy"
 alt="myImage">
 &lt;/a>
 &lt;figcaption>myImage&lt;/figcaption>
-&lt;/figure>&lt;/p></description></item><item><title>Post</title><link>https://inteti.github.io/posts/post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/post/</guid><description/></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
+&lt;/figure>&lt;/p></description></item><item><title>Post</title><link>https://inteti.github.io/posts/post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/post/</guid><description>&lt;h2 id="the-links">The Links&lt;/h2>
+&lt;h2 id="learning">Learning&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.cione.vn" target="_blank" rel="noopener"
+>https://www.cione.vn&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.howkteam.vn" target="_blank" rel="noopener"
+>https://www.howkteam.vn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="update">Update&lt;/h2>
+&lt;h3 id="front-end">Front-end&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.w3schools.com" target="_blank" rel="noopener"
+>https://www.w3schools.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Color:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://flatuicolors.com" target="_blank" rel="noopener"
+>https://flatuicolors.com&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://getemoji.com" target="_blank" rel="noopener"
+>https://getemoji.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="back-end">Back-end&lt;/h3>
+&lt;p>API example&lt;/p>
+&lt;ul>
+&lt;li>Vultr: &lt;a class="link" href="https://api.vultr.com/v2/regions" target="_blank" rel="noopener"
+>https://api.vultr.com/v2/regions&lt;/a> (&lt;a class="link" href="https://www.vultr.com/api/#tag/region" target="_blank" rel="noopener"
+>https://www.vultr.com/api/#tag/region&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="machine-learning">Machine learning&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://teachablemachine.withgoogle.com" target="_blank" rel="noopener"
+>https://teachablemachine.withgoogle.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="others">Others&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://l4w.io/2017/07/bat-dau-hoc-an-toan-thong-tin-nhu-the-nao/" target="_blank" rel="noopener"
+>https://l4w.io/2017/07/bat-dau-hoc-an-toan-thong-tin-nhu-the-nao/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Post</title><link>https://inteti.github.io/posts/post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/post/</guid><description/></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
 &lt;p>The first, you must login to Github. It&amp;rsquo;s &lt;a class="link" href="https://github.com" target="_blank" rel="noopener"
 >https://github.com&lt;/a>&lt;/p>
 &lt;h2 id="select-the-repository">Select the repository&lt;/h2>
