@@ -51,7 +51,14 @@
 &lt;h2 id="android">Android&lt;/h2>
 &lt;p>&amp;hellip;đang cập nhật&amp;hellip;&lt;/p>
 &lt;h2 id="ios">iOS&lt;/h2>
-&lt;p>&amp;hellip;đang cập nhật&amp;hellip;&lt;/p></description></item><item><title>New Post</title><link>https://inteti.github.io/posts/new-post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/new-post/</guid><description>&lt;h2 id="new-post">New post&lt;/h2>
+&lt;p>&amp;hellip;đang cập nhật&amp;hellip;&lt;/p></description></item><item><title>Nerver install</title><link>https://inteti.github.io/posts/nerver-install/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/nerver-install/</guid><description>&lt;h2 id="its-here">It&amp;rsquo;s here&lt;/h2>
+&lt;p>&lt;a class="link" href="https://neverinstall.com" target="_blank" rel="noopener"
+>https://neverinstall.com&lt;/a>&lt;/p>
+&lt;h3 id="info">Info&lt;/h3>
+&lt;ul>
+&lt;li>Just support region US, India and Singapore&lt;/li>
+&lt;li>Server: 2vCPU, 4vRAM&lt;/li>
+&lt;/ul></description></item><item><title>New Post</title><link>https://inteti.github.io/posts/new-post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/new-post/</guid><description>&lt;h2 id="new-post">New post&lt;/h2>
 &lt;p>to test&lt;/p></description></item><item><title>new Post</title><link>https://inteti.github.io/posts/new-post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/new-post/</guid><description>&lt;h2 id="ethan-bui-post-from-other-account">Ethan BUI post from other account&lt;/h2>
 &lt;p>Testing for new post and upload new img.&lt;/p>
 &lt;p>&lt;figure
@@ -69,7 +76,7 @@ loading="lazy"
 alt="myImage">
 &lt;/a>
 &lt;figcaption>myImage&lt;/figcaption>
-&lt;/figure>&lt;/p></description></item><item><title>Post</title><link>https://inteti.github.io/posts/post/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/post/</guid><description/></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
+&lt;/figure>&lt;/p></description></item><item><title>Using VScode on Github</title><link>https://inteti.github.io/posts/using-vscode-on-github/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/posts/using-vscode-on-github/</guid><description>&lt;h2 id="login-to-github">Login to Github&lt;/h2>
 &lt;p>The first, you must login to Github. It&amp;rsquo;s &lt;a class="link" href="https://github.com" target="_blank" rel="noopener"
 >https://github.com&lt;/a>&lt;/p>
 &lt;h2 id="select-the-repository">Select the repository&lt;/h2>
